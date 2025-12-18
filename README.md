@@ -37,7 +37,7 @@ The dashboard helps in understanding sales trends, customer behavior, and perfor
 
 - **Power BI Desktop**
 - **DAX Measures**
-- **Data Modeling**
+- **Data Modeling**  
 - **Interactive Visuals**
 - **Microsoft Bing Maps**
 
